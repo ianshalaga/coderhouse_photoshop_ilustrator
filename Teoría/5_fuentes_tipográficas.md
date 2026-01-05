@@ -1,4 +1,8 @@
-# Fuentes tipográficas y su relación con el diseño gráfico
+# Fuentes tipográficas
+
+## Recursos:
+
+- [Google Fonts](https://fonts.google.com/)
 
 ## 1. Introducción
 
