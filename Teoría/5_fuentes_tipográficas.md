@@ -1,6 +1,6 @@
 # Fuentes tipográficas
 
-## Recursos:
+## Recursos
 
 - [Google Fonts](https://fonts.google.com/)
 
