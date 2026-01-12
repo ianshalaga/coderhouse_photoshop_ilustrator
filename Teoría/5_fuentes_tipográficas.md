@@ -3,6 +3,7 @@
 ## Recursos
 
 - [Google Fonts](https://fonts.google.com/)
+- [Adobe Fonts](https://fonts.adobe.com/)
 
 ## 1. Introducción
 
