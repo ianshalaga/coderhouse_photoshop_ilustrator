@@ -1,87 +1,221 @@
-# Entrega N.º 1 - Presentación de la marca
+# Etapas del proyecto – Presentación de la marca
 
-## 1. Descripción general del trabajo
+Este documento explica el **proceso completo del proyecto** correspondiente a la _Preentrega – Presentación de la marca_, organizado en **seis etapas**, cada una desarrollada en una **mesa de trabajo independiente en Adobe Illustrator**.
 
-La Entrega N.º 1 consiste en la presentación integral de una marca en desarrollo. El objetivo principal es comunicar visual y conceptualmente la identidad de la marca mediante un conjunto de piezas gráficas coherentes, entendidas como partes de un sistema visual unificado, y no como elementos aislados.
+El objetivo es comprender **qué contiene cada etapa**, **qué se evalúa a nivel teórico** y **cómo abordarla técnicamente en Illustrator**, garantizando coherencia visual y conceptual en todo el trabajo.
 
-La entrega deberá evidenciar tanto la construcción conceptual de la marca como la aplicación práctica de herramientas de diseño gráfico, particularmente aquellas trabajadas en clase.
+---
 
-## 2. Objetivos del trabajo
+## 1. Enfoque general del proyecto
 
-### 2.1 Objetivos generales
+Este trabajo no se limita al diseño de un logotipo. Se trata de una **presentación integral de marca**, donde se evalúa:
 
-- Lograr que los diseños presentados se perciban como parte de una misma identidad visual, reconocible y coherente.
-- Demostrar la exploración y práctica consciente de las herramientas del programa de diseño utilizadas hasta el momento.
-- Presentar un sistema gráfico integrado, donde cada elemento refuerce a los demás.
+- Coherencia visual entre las piezas
+- Correcta aplicación de conceptos teóricos
+- Uso consciente de las herramientas de Illustrator
+- Organización del proceso de diseño
+- Capacidad de construir un sistema gráfico
 
-### 2.2 Objetivos específicos
+Los elementos deben percibirse como **partes de un todo**, no como piezas aisladas.
 
-- Utilizar correctamente la terminología técnica aprendida en clase.
-- Aplicar criterios de orden, jerarquía visual y coherencia gráfica.
-- Desarrollar una presentación clara, legible y profesional.
+---
 
-## 3. Contenidos obligatorios de la entrega
+## 2. Organización general de las mesas de trabajo
 
-La presentación deberá incluir, como mínimo, los siguientes elementos:
+Se trabajará con **seis mesas de trabajo**, todas con las siguientes características:
 
-### Apertura
+- Ancho: **1400 px**
+- Alto: variable según contenido
+- Mismo sistema de grilla y márgenes
 
-- Descripción breve del proyecto y de la marca.
-- Contexto, propósito y concepto general.
+| Mesa | Etapa                                |
+| ---- | ------------------------------------ |
+| 1    | Apertura / Presentación del proyecto |
+| 2    | Moodboard                            |
+| 3    | Paleta cromática                     |
+| 4    | Familia tipográfica                  |
+| 5    | Logo y bocetos                       |
+| 6    | Cierre / Síntesis                    |
 
-### Moodboard
+---
 
-- Referencias visuales que expresen el clima, estilo y personalidad de la marca.
+## 3. Etapas del proyecto
 
-### Paleta cromática
+---
 
-- Colores seleccionados y su justificación conceptual y comunicacional.
+## MESA 1 — Apertura / Presentación de la marca
 
-### Familia tipográfica
+### Contenido
 
-- Tipografías elegidas y criterio de selección.
+- Nombre de la marca
+- Descripción breve del proyecto
+- Concepto general
+- Palabras clave
 
-### Logotipo
+### Objetivo teórico
 
-- Versión final del logo.
-- Posibles variantes (si corresponde).
+Introducir la identidad de la marca y contextualizar el resto del proyecto.
 
-### Bocetos
+### Recomendaciones teóricas
 
-- Exploraciones gráficas previas del logotipo u otros elementos relevantes.
+- Texto breve y claro
+- Uso correcto de terminología
+- Enfoque explicativo, no publicitario
 
-### Cierre
+### Recomendaciones prácticas en Illustrator
 
-- Síntesis visual y conceptual del proyecto.
-- Refuerzo de la identidad general de la marca.
+- Uso de grilla simple (por ejemplo, 4 columnas)
+- Amplio aire visual
+- Jerarquía tipográfica clara
+- Evitar saturación gráfica
 
-Todos estos contenidos deberán presentarse integrados dentro de un mismo diseño, evitando la sensación de imágenes sueltas o inconexas.
+---
 
-## 4. Criterios de presentación y diseño
+## MESA 2 — Moodboard
 
-Si se opta por un diseño tipo sábana:
+### Contenido
 
-- Cada sección debe contar con el aire visual suficiente.
-- Evitar la saturación de elementos.
+- Imágenes de referencia
+- Clima visual
+- Estilo gráfico
+- Inspiraciones conceptuales
 
-Utilizar:
+### Objetivo teórico
 
-- Líneas guía
-- Grillas simples
+Evidenciar la exploración visual y justificar las decisiones posteriores.
 
-Se valorará la mejora y refinamiento de todo lo trabajado previamente.
+### Recomendaciones teóricas
 
-Es obligatorio conservar una versión editable del proyecto.
+- El moodboard no es decorativo
+- Las referencias deben responder al concepto de marca
+- Evitar estilos contradictorios
 
-## 5. Formato de entrega
+### Recomendaciones prácticas en Illustrator
 
-- Archivo: PDF
-- Nombre del archivo:
-  PrimeraEntrega+Apellido.pdf
+- Alineación estricta a la grilla
+- Proporciones coherentes entre imágenes
+- Uso de guías para ordenar
+- Mantener consistencia visual
 
-Mesas de trabajo:
+---
 
-- Ancho: 1400 px
-- Alto: el necesario según el contenido
+## MESA 3 — Paleta cromática
 
-El documento debe presentar todos los elementos de forma continua y coherente.
+### Contenido
+
+- Colores principales
+- Colores secundarios o de acento
+- Códigos de color (RGB / HEX)
+
+### Objetivo teórico
+
+Definir la identidad cromática de la marca y su intención comunicacional.
+
+### Recomendaciones teóricas
+
+- Paleta reducida
+- Justificación funcional del color
+- Coherencia con los valores de marca
+
+### Recomendaciones prácticas en Illustrator
+
+- Uso de cajas de color vectoriales
+- Tamaños regulares y alineación precisa
+- Evitar degradados innecesarios
+
+---
+
+## MESA 4 — Familia tipográfica
+
+### Contenido
+
+- Tipografía principal
+- Tipografía secundaria (si aplica)
+- Ejemplos de jerarquía (títulos, texto)
+
+### Objetivo teórico
+
+Definir el tono comunicacional y la jerarquía tipográfica de la marca.
+
+### Recomendaciones teóricas
+
+- Máximo dos familias tipográficas
+- Coherencia con la personalidad de marca
+- Priorizar legibilidad
+
+### Recomendaciones prácticas en Illustrator
+
+- Mantener el texto editable
+- Respetar interletraje y cuerpos
+- Alinear textos a la grilla
+- No deformar tipografías
+
+---
+
+## MESA 5 — Logo y bocetos
+
+### Contenido
+
+- Bocetos iniciales
+- Exploraciones formales
+- Logo en desarrollo o versión final
+
+### Objetivo teórico
+
+Evidenciar el proceso de diseño y la construcción gráfica del logotipo.
+
+### Recomendaciones teóricas
+
+- Mostrar alternativas descartadas
+- Justificar brevemente la elección final
+- Priorizar síntesis y coherencia
+
+### Recomendaciones prácticas en Illustrator
+
+- Uso de pluma, buscatrazos y formas geométricas
+- Construcción limpia y precisa
+- Minimizar nodos innecesarios
+- Uso de guías para proporciones
+
+---
+
+## MESA 6 — Cierre / Síntesis
+
+### Contenido
+
+- Síntesis visual de la marca
+- Refuerzo del concepto
+- Logo destacado
+- Posible aplicación mínima
+
+### Objetivo teórico
+
+Cerrar el discurso visual del proyecto y reforzar la identidad general.
+
+### Recomendaciones teóricas
+
+- Menos información, mayor síntesis
+- Coherencia con la apertura
+- No introducir conceptos nuevos
+
+### Recomendaciones prácticas en Illustrator
+
+- Composición equilibrada
+- Uso del logo con aire visual
+- Mantener la grilla base
+
+---
+
+## 4. Recomendaciones generales
+
+- Utilizar guías y grillas en todas las mesas
+- Conservar siempre una versión editable
+- Pensar el proyecto como un sistema visual
+- Cuidar orden, jerarquía y aire visual
+- Exportar todas las mesas en un único archivo PDF
+
+---
+
+## 5. Cierre conceptual
+
+El desarrollo del proyecto en etapas permite ordenar el proceso de diseño y demostrar criterio profesional. La correcta integración de teoría, concepto y herramientas técnicas es clave para lograr una presentación de marca coherente, clara y académicamente sólida.
